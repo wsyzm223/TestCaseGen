@@ -13,5 +13,6 @@ env/
 *.iml
 
 # 本地/临时
+practice/
 *.log
 .DS_Store
